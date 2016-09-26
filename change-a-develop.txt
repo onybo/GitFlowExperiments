@@ -1,2 +1,3 @@
 Making a change in develop //this bug was fixed in both develop and release/1.4, then merged
 hotfixing 1.5.1
+making a minor change in 1.6 release before releasing
