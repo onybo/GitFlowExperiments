@@ -1,1 +1,2 @@
 fixing bug found during verification of release 1.5
+doing 1.6 work in dev
